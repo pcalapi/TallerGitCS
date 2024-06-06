@@ -1,1 +1,1 @@
-alert("Java Script")
+alert("Java Script");
